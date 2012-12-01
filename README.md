@@ -1,9 +1,7 @@
-# Ruby on Rails Tutorial: sample application
+#PreDBC
+## A Twitter-like Ruby on Rails Application
 
-Check out the application at [*predbc*](http://predbc.herokuapp.com/).
-
-I wrote this application as preparation for
+I wrote this application using the [Michael Hartl](http://michaelhartl.com/) [*Ruby on Rails Tutorial*](http://railstutorial.org/) as preparation for
 [*Dev Bootcamp*](http://devbootcamp.com/).
 
-This is the sample application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
+Check out the application at [*predbc*](http://predbc.herokuapp.com/).
